@@ -1,6 +1,6 @@
 # Bounty
 
-## Title: Functionality Bug Reporting and Fixing
+## Functionality Bug Reporting and Fixing
 
 ## Description:
 We are offering a bounty for reporting and/or fixing bugs in our software product. The goal is to identify and resolve any issues that may impact the usability or security of our product.
