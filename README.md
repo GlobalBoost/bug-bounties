@@ -24,6 +24,10 @@ The bounty reward for reporting a bug is categorized based on the severity for e
 There is no set timeline for reporting or fixing bugs. However, we encourage prompt reporting and fixing of bugs to ensure the stability and security of our product.
 
 
+### For example
+There has been an issue created, please follow the link 
+https://github.com/GlobalBoost/bug-bounties/issues/1
+
 
 
 
